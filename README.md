@@ -14,3 +14,7 @@ It includes a programming support of deep neural networks and machine learning t
 It includes a high scalable feature of computation with various data sets.
 
 TensorFlow uses GPU computing, automating management. It also includes a unique feature of optimization of same memory and the data used.
+
+TensorFlow can train and run deep neural networks for handwritten digit classification, image recognition, word embedding and creation of various sequence models.
+
+
