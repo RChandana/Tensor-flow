@@ -7,3 +7,6 @@ x = tf.constant([[1., 2., 3.],
 print(x)
 print(x.shape)
 print(x.dtype)
+print(x+x)
+print(5*x)
+print(x @ tf.transpose(x))
