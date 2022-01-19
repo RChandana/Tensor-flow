@@ -29,3 +29,28 @@ TensorFlow is designed in Python programming language, hence it is considered an
 TensorFlow is well-documented and includes plenty of machine learning libraries. It offers a few important functionalities and methods for the same.
 
 TensorFlow is also called a “Google” product. It includes a variety of machine learning and deep learning algorithms. TensorFlow can train and run deep neural networks for handwritten digit classification, image recognition, word embedding and creation of various sequence models.
+
+
+## Pros:-
+### Graphs
+ Tensorflow has better computational graph visualizations, which are indigenous when compared to other libraries like 
+ Torch and Theano.
+
+### Library Management
+  Backed by Google, TensorFlow has the advantage of seamless performance, quick updates and frequent new 
+  releases with new features.
+  
+### Debugging
+ Tensorflow lets you execute subparts of a graph which gives it an upper hand as you can introduce and retrieve discrete 
+ data onto an edge and therefore offers a great debugging method.  
+
+### Scalability
+ The libraries can be deployed on a gamut of hardware machines, starting from cellular devices to computers with 
+ complex setups.
+
+### Pipelining
+ TensorFlow is highly parallel and designed to use various backends software (GPU, ASIC) etc.
+
+
+
+
