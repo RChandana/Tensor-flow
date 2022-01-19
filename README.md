@@ -52,5 +52,24 @@ TensorFlow is also called a “Google” product. It includes a variety of machi
  TensorFlow is highly parallel and designed to use various backends software (GPU, ASIC) etc.
 
 
+## Cons:-
+### Missing Symbolic Loops
+ The feature that’s most required when it comes to variable length sequences are the symbolic loops. Unfortunately, 
+ TensorFlow does not offer this feature, but there is a workaround using finite unfolding (bucketing).
+ 
+ ### No support for Windows
+ There is still a wide variety of users who are comfortable with a windows environment rather than a Linux in their systems and TensorFlow does not assuage these users.
 
+But, you need not worry if you are a Windows user as you can install it within a conda environment or using the python package library, pip.
+
+### Benchmark Tests
+ TensorFlow lacks behind in both speed and usage when compared to its competitors
+ 
+ ### No GPU support other than Nvidia and only language support
+  Currently, the only supported GPUs are that of NVIDIA and the only full language support is of Python which makes it a 
+  downside as there is a rise of other languages in deep learning as well like Lau.
+  
+### Computation Speed
+ This is the field where TF is lagging behind but you focus on the production environment rather than the performance, it 
+  is still a good choice.
 
